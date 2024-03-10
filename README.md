@@ -1,4 +1,5 @@
 Açıklama
+
 MineSweeper, klasik bir bilgisayar oyunudur. Oyunda amacınız, mayın olmayan tüm kutuları açmak ve hiçbir mayına dokunmadan oyunu tamamlamaktır. 
 Her kutunun etrafındaki mayın sayısı belirtilir. Oyun tahtasında herhangi bir kutuyu açmak için koordinatları girmeniz gerekir.
 
